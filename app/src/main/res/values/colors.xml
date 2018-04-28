@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <!--From material.io guidelines-->
+    <color name="colorSecondaryLight">#F8FDFF</color>
+    <color name="colorSecondary">#C5CAE9</color>
 </resources>
